@@ -1,0 +1,15 @@
+body h1{
+    border-color: rgb(8, 147, 17);
+    background-color: rgb(120, 194, 231);
+    text-align: center;
+    font-style: oblique;
+}
+h2 {
+    background-color: rgb(212, 222, 21);
+    text-align: center;
+
+}
+h3 {
+    background-color: rgb(217, 147, 25);
+    text-align: center;
+}
